@@ -1,2 +1,2 @@
-# matH
-A C++ Mathematic function library
+# matH  
+A mathematic library written in C.
